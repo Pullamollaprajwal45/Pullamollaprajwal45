@@ -1,5 +1,5 @@
 # 💫 About Me:
-HI I'm prajwal- a Software Engineer with a strong foundation in Java, SQL, Object-Oriented Programming (OOP), databases and Power BI. Passionate about developing real-world software solutions and creating interactive data visualizations and dashboards. Eager to apply my technical, analytical and problem-solving skills while continuously learning new technologies and contributing to organizational success.<br>
+Hi I'm prajwal- a Software Engineer with a strong foundation in Java, SQL, Object-Oriented Programming (OOP), databases and Power BI. Passionate about developing real-world software solutions and creating interactive data visualizations and dashboards. Eager to apply my technical, analytical and problem-solving skills while continuously learning new technologies and contributing to organizational success.<br>
 
 
 # 💻 Tech Stack:
